@@ -1,2 +1,2 @@
 # af
-Adevarul Finanziar
+Adevarul Financiar
