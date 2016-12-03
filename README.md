@@ -1,3 +1,2 @@
 # af
-Adevarul Financiar 
-first branch
+Adevarul Financiar branch
